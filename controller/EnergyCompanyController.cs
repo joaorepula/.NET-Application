@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 public class EndpointController
 {
     private readonly ConsoleView view;
